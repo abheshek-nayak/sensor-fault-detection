@@ -1,0 +1,2 @@
+pymongo[srv]==4.2.0
+-e . # install all the libraries of your packages
